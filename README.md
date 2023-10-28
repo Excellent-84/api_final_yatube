@@ -12,9 +12,9 @@
 Аутентификация с помощью JWT-токена.
 
 ### Стек технологий:
- * Python
- * Django
- * Django REST framework
+ * ##### Python
+ * ##### Django
+ * ##### Django REST framework
 
 ### Как запустить проект:
 
