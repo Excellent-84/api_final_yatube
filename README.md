@@ -12,9 +12,7 @@
 Аутентификация с помощью JWT-токена.
 
 ### Стек технологий:
- * ##### Python
- * ##### Django
- * ##### Django REST framework
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB"/><img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=django&logoColor=082E08"/><img src="https://img.shields.io/badge/Django REST Framework-FFFFFF?style=for-the-badge&logo=&logoColor=361508"/>
 
 ### Как запустить проект:
 
