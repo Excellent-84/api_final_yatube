@@ -39,6 +39,11 @@ python3 -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+#### Создать файл .env и указать необходимые токены по примеру .env.example:
+``` 
+touch .env
+```
+
 ##### Выполнить миграции:
 
 ```
